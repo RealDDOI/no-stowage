@@ -1,3 +1,5 @@
 # Gato server
 
-<img align="right" width="38%" src="[https://i.imgur.com/VxANS89.jpg](https://user-images.githubusercontent.com/127240555/223515249-9da8b0d8-c031-48bb-a9a5-0deb672f9f88.png)"/>
+<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+
+   <a href="https://github.com/Nota0x7"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Nota0x7&theme=radical&title_color=ff3068"></a>
